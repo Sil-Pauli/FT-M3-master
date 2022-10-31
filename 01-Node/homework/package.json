@@ -6,5 +6,10 @@
     "start": "nodemon bash.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^2.0.20",
+    "nodenpm": "^0.1.6"
+  }
 }
